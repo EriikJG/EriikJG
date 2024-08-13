@@ -2,13 +2,15 @@
 <h3 align="center">Futuro Ingeniero en Software, apasionado de la tecnología.</h3>
 <h3 align="left">Sobre mí:</h3>
 <p align="left">
-  💡 Centrado en entender los principios fundamentales del desarrollo de software y las tecnologías Java, con un interés particular en el mundo de las criptomonedas y las tecnologías emergentes.
-  <br>
-  🌱 Comprometido con el aprendizaje continuo, busco activamente oportunidades para ampliar mis conocimientos en áreas como el desarrollo de aplicaciones Java, blockchain y nuevas tecnologías relacionadas con las criptomonedas.
-  <br>
-  📚 Adopto un enfoque dedicado y orientado a la resolución de problemas en mis estudios y proyectos, con el objetivo de ofrecer resultados de calidad y adherirme a las mejores prácticas de desarrollo. Siempre estoy abierto a colaborar en proyectos innovadores que exploren soluciones disruptivas en el ámbito de las finanzas descentralizadas y la tecnología blockchain.
-  <br>
-  ✨ Rápido para adaptarme, motivado por la pasión por la tecnología y la innovación, y dispuesto a explorar nuevas fronteras en el mundo de las criptomonedas y las tecnologías Java.
+💡 Centrado en entender los principios fundamentales del desarrollo de software, con un interés particular en  las tecnologías emergentes. Adopto un enfoque orientado a la resolución de problemas en mis estudios y proyectos, con el objetivo de ofrecer resultados de calidad y adherirme a las mejores prácticas de desarrollo.
+<br>
+🌱 Comprometido con el aprendizaje continuo, busco activamente oportunidades para ampliar mis conocimientos en áreas como el desarrollo de aplicaciones. Mi conocimiento en programación y desarrollo de aplicaciones me permite participar en proyectos tecnológicos, lo que amplía mi capacidad para integrarme en equipos multidisciplinarios.
+<br>
+📈 Experiencia en el sector de ventas de teléfonos móviles y accesorios para celular, habiendo trabajado en entornos de alta demanda y competitividad. 
+<br>
+🤝Estoy abierto a colaborar en proyectos innovadores.
+<br>
+🚗 Licencia de conducir Tipo B, lo cual me da flexibilidad para realizar desplazamientos necesarios en el ámbito laboral.
 </p>
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
