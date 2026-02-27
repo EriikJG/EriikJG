@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Erik</h1>
-<h3 align="center">Futuro Ingeniero en Software, apasionado de la tecnología.</h3>
+<h3 align="center">Ingeniero en Software, apasionado de la tecnología.</h3>
 <h3 align="left">Sobre mí:</h3>
 <p align="left">
 💡 Centrado en entender los principios fundamentales del desarrollo de software, con un interés particular en  las tecnologías emergentes. Adopto un enfoque orientado a la resolución de problemas en mis estudios y proyectos, con el objetivo de ofrecer resultados de calidad y adherirme a las mejores prácticas de desarrollo.
